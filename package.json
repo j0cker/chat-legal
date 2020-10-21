@@ -16,5 +16,8 @@
     "bugs": {
         "url": "https://github.com/j0cker/chat-legal/issues"
     },
-    "homepage": "https://github.com/j0cker/chat-legal#readme"
+    "homepage": "https://github.com/j0cker/chat-legal#readme",
+    "dependencies": {
+        "yargs": "^16.1.0"
+    }
 }
