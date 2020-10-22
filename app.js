@@ -18,7 +18,7 @@ io.on('connection', (socket) => {
     });
 });
 
-var port = process.env.PORT || 8;
+var port = process.env.PORT || 80;
 
 server.listen(port, function() {
     console.log('listening in https://chat-legal.azurewebsites.net:' + port);
