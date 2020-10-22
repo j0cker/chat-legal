@@ -31,5 +31,5 @@ jobs:
       with:
         app-name: 'chat-legal'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_be150f899c3a49dcb87d3673fa47883d }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_68a0dc8d3ecd489fa8cd01ca9a24abfd }}
         package: .
